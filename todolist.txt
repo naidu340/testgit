@@ -1,0 +1,7 @@
+This is a todo list for test project
+1) Wake up
+2) Brush & Wash
+3) Coffee
+4) Bath
+5) Dressing
+6) Break fast
